@@ -25,10 +25,10 @@ All screenshots are available in the `screenshots` folder.
 ![Home](screenshots/home.png)
 
 ### Text Input
-![Text Input](screenshots/text-input.png)
+![Text Input](screenshots/Text_input.png)
 
 ### PDF Upload
-![PDF Upload](screenshots/pdf-upload.png)
+![PDF Upload](screenshots/pdf_upload.png)
 
 ### blank_document_can't_summerize
 ![blank document can't summerize](screenshots/blank_document_can't_summerize.png)
@@ -37,4 +37,4 @@ All screenshots are available in the `screenshots` folder.
 ![only_pdf_file_allowed](screenshots/only_pdf_file_allowed.png)
 
 ### Summary Output
-![Summary](screenshots/summary-output.png)
+![Summary](screenshots/summary_output.png)
